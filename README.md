@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @BelkasPro
-- 👀 I’m interested in gdi malwares
-- 🌱 I’m currently learning C++, C#
-- 📫 How to reach me: DC: belkaspro
-- 😄 Pronouns: Belka, Belkas
-- ⚡ Fun fact: i making good malware (secret) ;) 
+# Hi 👋
+- Hi, I’m BelkasPRO 🐿
+- I’m interested in gdi malwares 🦠
+- I’m currently learn C++, C# 👀
+- Gender: Male
+- You can talk with me in discord: belkaspro
+- My age: 14
+- You can call me: Belka or Belkas 
+- I'm from Russia! 🔰
+- I'll making good repository 🧾
+- My channel: https://youtube.com/@BelkasPRO 🟥
