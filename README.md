@@ -2,10 +2,10 @@
 - Hi, I’m BelkasPRO 🐿
 - I’m interested in gdi malwares 🦠
 - I’m currently learn C++, C# 👀
-- Gender: Male
-- You can talk with me in discord: belkaspro
-- My age: 14
-- You can call me: Belka or Belkas 
+- Gender: Male 🚻
+- You can talk with me in discord: belkaspro 🔷
+- My age: 14 🧍‍♂️
+- You can call me: Belka or Belkas 🐿
 - I'm from Russia! 🔰
 - I'll making good repository 🧾
 - My channel: https://youtube.com/@BelkasPRO 🟥
