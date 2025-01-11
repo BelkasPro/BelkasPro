@@ -12,7 +12,7 @@
   <a href="https://steamcommunity.com/id/BelkasPRO/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-## Main Tools
+<h2 align="center">Main Tools</h2>
 
 <table align="center">
   <tr>
