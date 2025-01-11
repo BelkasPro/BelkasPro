@@ -11,7 +11,7 @@
   <a href="https://discordapp.com/users/1261318712737140" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/BelkasPRO/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <p>
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/BelkasPro?style=for-the-badge&color=%23323333" width="96">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/BelkasPro?style=for-the-badge&color=%23323333" width="100">
   </p>
 </div>
 
