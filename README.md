@@ -40,5 +40,4 @@
 
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fefff3&reversal=false&section=footer"/> 
-<span style="font-size: 0.5em;">Original by JhoPro</span>
 
