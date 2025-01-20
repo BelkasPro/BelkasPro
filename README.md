@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FEFFF3&center=true&width=850&height=52&lines=Hi%2C+user!;Welcome+to+my+Github!;My+name+is+Belka.;And+i+making+GDI-Malwares+and+learned+some+languages;My+next+birthday+in+13th+of+October!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belkaspro&show_icons=true&theme=github_dark_dimmed" alt="BelkasPRO statistic" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BelkasPRO&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="BelkasPRO statistic" /> 
 </div>
 <br />
 <div align="center">
