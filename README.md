@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=belkaspro&style=for-the-badge" width="130">
 </div>
 
-<h2 align="center">Main Tools</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FEFFF3&width=435&lines=Main+Tools)](https://git.io/typing-svg)
 
 <table align="center">
   <tr>
