@@ -4,8 +4,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BelkasPRO&show_icons=true&theme=noctis_minimus" alt="BelkasPRO statistic" /> 
+   <img src="https://streak-stats.demolab.com?user=BelkasPro&theme=dark&hide_border=true&short_numbers=true&card_width=195" alt="BelkasPRO Strike" /> 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/user=belkaspro&theme=dark&hide_border=true&short_numbers=true&card_width=195)](https://git.io/streak-stats)
+
 <br />
 <div align="center">
   <a href="https://www.youtube.com/@BelkasPRO" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
