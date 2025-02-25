@@ -4,7 +4,6 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BelkasPRO&show_icons=true&theme=noctis_minimus" alt="BelkasPRO statistic" /> 
-   <img src="https://streak-stats.demolab.com?user=BelkasPro&theme=dark&hide_border=true&short_numbers=true&card_width=195" alt="BelkasPRO Strike" /> 
 </div>
 
 <br />
