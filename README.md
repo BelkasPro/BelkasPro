@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=belkaspro&style=for-the-badge" width="145">
 </div>
 
-<h2 align="center">MAIN TOOLS</h2>
+<h2 align="center">What i using</h2>
 
 <table align="center">
   <tr>
