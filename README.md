@@ -1,9 +1,9 @@
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=33fcff"/> 
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD"/> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FEFFF3&center=true&width=850&height=52&lines=So%2C+hello+user!;Welcome+to+my+Github+Profile!;My+name+is+Belka%2C+but+you+can+name+me+BelkaPRO;I+making+GDI-Malwares+and+learning+some+languages;My+next+birthday+in+13th+of+October!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BelkasPRO&show_icons=true&theme=nord" alt="BelkasPRO statistic" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BelkasPRO&show_icons=true&theme=gruvbox" alt="BelkasPRO statistic" /> 
 </div>
 
 <br />
@@ -41,5 +41,5 @@
 </table>
 
 
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=33fcff&reversal=false&section=footer"/> 
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD&reversal=false&section=footer"/> 
 
